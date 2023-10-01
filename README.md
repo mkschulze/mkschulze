@@ -5,6 +5,8 @@
 ## 🌟 Interests
 - Legal Tech
 - Finance / Accounting with Python
+- Audio Technology
+- Music Production
 - Artificial Intelligence
 - Natural Language Processing
 - Web Development
