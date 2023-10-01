@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# 👩‍💻 Welcome to mkschulze's GitHub! 👨‍💻
+
+## 🌟 Interests
+- Legal Tech
+- Finance / Accounting with Python
+- Artificial Intelligence
+- Natural Language Processing
+- Web Development
+- Open Source Contributions
+- Data Science
+
 <!--
 **mkschulze/mkschulze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
