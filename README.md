@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 👩‍💻 Welcome to mkschulze's GitHub! 👨‍💻
+# 👩‍💻 Welcome to my GitHub! 👨‍💻
 
 ## 🌟 Interests
 - Legal Tech
